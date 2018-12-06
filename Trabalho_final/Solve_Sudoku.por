@@ -48,7 +48,7 @@ programa
 		} senao { 
 			u.aguarde(1000)
 			limpa()
-			escreva ("Validação: OK \n") 
+			escreva ("ValidaÃ§Ã£o: OK \n") 
 			escreva ("Resolvendo")
 			u.aguarde(500)
 			escreva (".")
@@ -199,7 +199,7 @@ programa
 		inteiro quadrante7[3][3], quadrante8[3][3], quadrante9[3][3]
 		inteiro linha = 0, coluna = 0
 		cadeia linhaC = "", colunaC = ""
-		para (inteiro i = 0 ; i <= 8 ; i++) {//criação de quadrantes
+		para (inteiro i = 0 ; i <= 8 ; i++) {//criaÃ§Ã£o de quadrantes
 			para (inteiro j = 0 ; j <= 8 ; j++) {
 				se (i < 3 e j < 3) {quadrante1[i][j] = sudoku[i][j]}
 				se (i < 3 e j > 2 e j < 6) {quadrante2[i][j-3] = sudoku[i][j]}
@@ -213,7 +213,7 @@ programa
 			}
 		}
 		escreva ("")
-		para (inteiro i = 0 ; i < 3 ; i++) {//validação 1
+		para (inteiro i = 0 ; i < 3 ; i++) {//validaÃ§Ã£o 1
 			para (inteiro j = 0 ; j < 3 ; j++) {
 				para (inteiro k = 0 ; k < 3 ; k++) {
 					para (inteiro l = 0 ; l < 3 ; l++) {
@@ -296,7 +296,7 @@ programa
 			}
 		}
 		escreva ("")
-		para (inteiro i = 0 ; i < 9 ; i++) {//validação 2
+		para (inteiro i = 0 ; i < 9 ; i++) {//validaÃ§Ã£o 2
 			para (inteiro j = 0 ; j < 9 ; j++) {
 				se (i != j) {
 					se (sudoku[0][i] == sudoku[0][j] e sudoku[0][i] != 0 e sudoku[0][j] != 0) {
@@ -357,7 +357,7 @@ programa
 			}
 		}
 		escreva ("")
-		para (inteiro i = 0 ; i < 9 ; i++) {//validação 3
+		para (inteiro i = 0 ; i < 9 ; i++) {//validaÃ§Ã£o 3
 			para (inteiro j = 0 ; j < 9 ; j++) {
 				se (i != j) {
 					se (sudoku[i][0] == sudoku[j][0] e sudoku[i][0] != 0 e sudoku[j][0] != 0) {
@@ -552,8 +552,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 1429; 
  * @DOBRAMENTO-CODIGO = [34, 47, 60, 64, 73, 184, 201, 215, 298, 359, 194, 421, 433, 447, 468, 488, 495, 518];
