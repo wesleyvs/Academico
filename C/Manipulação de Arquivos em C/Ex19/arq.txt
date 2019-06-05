@@ -1,0 +1,5 @@
+NOME: Andre NOTA: 8
+NOME: Rodrigo NOTA: 10
+NOME: Wesley NOTA: 9
+NOME: Maria NOTA: 10
+NOME: Ana NOTA: 10

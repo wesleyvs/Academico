@@ -1,0 +1,5 @@
+arroz: R$20
+feijao: R$30
+carne: R$40
+frango: R$50
+manteiga: R$60

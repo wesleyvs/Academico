@@ -1,0 +1,5 @@
+Nome do aluno: Andre
+
+3º Nota: 7,00
+2º Nota: 8,00
+1º Nota: 9,00
