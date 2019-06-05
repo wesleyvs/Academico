@@ -1,4 +1,4 @@
-Projeto realizado durante a matéria "Engenharia de Software"  
+Projeto realizado durante a matéria "Engenharia de Software" presente no 2º semestre.  
   
 Descrição do projeto:  
 "Model de um sistema de prestação de serviços via aplicativo, fornecedor (lojas, empresas, etc)  
