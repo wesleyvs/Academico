@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558051559 source:c:\users\wesley vinicius\desktop\fatec\lp 1\exercicio_struct_aninhada\exercicio_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

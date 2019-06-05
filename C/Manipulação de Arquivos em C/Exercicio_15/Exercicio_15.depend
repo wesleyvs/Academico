@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559601644 source:c:\users\aluno\desktop\exercicio_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
