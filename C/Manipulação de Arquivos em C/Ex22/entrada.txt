@@ -1,5 +1,0 @@
-Nome do aluno: Andre
-
-1º Nota: 9,00
-2º Nota: 8,00
-3º Nota: 7,00

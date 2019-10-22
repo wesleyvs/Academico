@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1559770696 source:c:\users\wesley\desktop\c\manipulação de arquivos em c\exercicio_12\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-	<string.h>
-
